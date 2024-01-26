@@ -106,7 +106,6 @@ const Testimonials = () => {
                       </h1>
                     </div>
                   </div>
-                  <p> ,,</p>
                 </div>
               </div>
             ))}
